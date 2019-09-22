@@ -1,0 +1,5 @@
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-cd-slrs-rtm/sql/20190919_20190920_ENE_CD_SLRS_RTM_20190922_11_07_19_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-cd-slrs-rtm/sql/20190918_20190919_ENE_CD_SLRS_RTM_20190922_11_07_13_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-cd-slrs-rtm/sql/20190920_20190921_ENE_CD_SLRS_RTM_20190922_11_07_24_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-cd-slrs-rtm/sql/20190917_20190918_ENE_CD_SLRS_RTM_20190922_11_07_08_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-ene-cd-slrs-rtm/sql/20190916_20190917_ENE_CD_SLRS_RTM_20190922_11_07_03_v1.sql
